@@ -1,0 +1,40 @@
+{
+	"id": 926,
+	"name": "Baltic and Finnish flags in CS2",
+	"description": "A Lithuanian Tiktok streamer Angis (Angiskietas) with his group filled up Lithuanian flag. Follow the next flag was Latvia, Estonia and Finland. After Stream ended more people keep adding a new flag to the CS2 marking the end for ohnepixel art.",
+	"links": {
+		"website": [
+			"https://www.tiktok.com/@angriskietas"
+		]
+	},
+	"path": {
+		"153-159": [
+			[
+				-15,
+				-806
+			],
+			[
+				25,
+				-806
+			],
+			[
+				26,
+				-779
+			],
+			[
+				-15,
+				-779
+			],
+			[
+				-15,
+				-805
+			]
+		]
+	},
+	"center": {
+		"153-159": [
+			6,
+			-792
+		]
+	}
+}
