@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "A Disputed territory.",
+	"description": "The Disputed territory is claimed by Mexican community and \"Kunigo Rajono\" Lithuania.",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@RajonoKunigas"
+		],
+		"subreddit": [
+			"mexico"
+		]
+	},
+	"path": {
+		"253-256": [
+			[
+				-270,
+				-28
+			],
+			[
+				-191,
+				-28
+			],
+			[
+				-191,
+				86
+			],
+			[
+				-270,
+				86
+			],
+			[
+				-270,
+				-28
+			]
+		]
+	},
+	"center": {
+		"253-256": [
+			-230,
+			29
+		]
+	}
+}
